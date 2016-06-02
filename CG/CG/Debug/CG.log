@@ -1,0 +1,11 @@
+﻿Build started 2016/06/03 0:36:08.
+     1>Project "C:\Users\yuuta\Documents\Visual Studio 2013\Projects\CG\CG\CG\CG.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yuuta\Documents\Visual Studio 2013\Projects\CG\CG\Debug\CG.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\CG\freeglut\lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yuuta\Documents\Visual Studio 2013\Projects\CG\CG\Debug\CG.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yuuta\Documents\Visual Studio 2013\Projects\CG\CG\Debug\CG.lib" /MACHINE:X86 Debug\H27CGkadai2_No25.obj
+         Debug\ppmload2.obj
+         CG.vcxproj -> C:\Users\yuuta\Documents\Visual Studio 2013\Projects\CG\CG\Debug\CG.exe
+     1>Done Building Project "C:\Users\yuuta\Documents\Visual Studio 2013\Projects\CG\CG\CG\CG.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.85
